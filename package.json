@@ -17,6 +17,6 @@
     "telegraf-ratelimit": "^2.0.0"
   },
   "devDependencies": {
-    "prettier": "^3.0.1"
+    "prettier": "^3.5.3"
   }
 }
